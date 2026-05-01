@@ -94,7 +94,7 @@ Pokeworld isn't just building features. We're building **infrastructure** for a 
 |---|---|
 | 🌐 Website | [pokeworldsol.xyz](https://pokeworldsol.xyz) |
 | 💬 Telegram | [t.me/heypokeworld](https://t.me/heypokeworld) |
-| 🐦 Twitter/X | [x.com/heypokeworld](https://x.com/heypokeworld) |
+| 🐦 Twitter/X | [x.com/heypokeworld](https://x.com/heypokeonsol) |
 | 💻 GitHub | [github.com/heypokeworld](https://github.com/heypokeworld) |
 
 ---
